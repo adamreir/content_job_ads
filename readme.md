@@ -19,11 +19,10 @@ This repo contains the full list of pay and non-pay job attributes we extract fr
 If you find this research helpful, please consider citing the following paper:
 
 ```
-@techreport{
-    audoly2024pay,
+@techreport{audoly2024pay,
 	Author = {Audoly, Richard and Bhuller, Manudeep and Reiremo, Tore {A}dam},
-	Institution = {mimeo},
 	Title = {The Pay and Non-pay Content of Job Ads},
+	Journal = {mimeo},
 	Year = {2024}
 }
 ```
