@@ -18,7 +18,7 @@ This repo contains the full list of pay and non-pay job attributes we extract fr
 
 [Repository of Pay and Non-Pay Job Attributes](https://github.com/raudoly/content_job_ads) by Richard Audoly, Manudeep Bhuller, and Tore Adam Reiremo is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
 
-<!-- [Repository of Pay and Non-Pay Job Attributes](https://github.com/raudoly/content_job_ads) by Richard Audoly, Manudeep Bhuller, and Tore Adam Reiremo is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1) ![CC](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1) ![BY](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1) -->
+<!-- [Repository of Pay and Non-Pay Job Attributes](https://github.com/adamreir/content_job_ads) by Richard Audoly, Manudeep Bhuller, and Tore Adam Reiremo is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1) ![CC](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1) ![BY](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1) -->
 
 ### Citation
 
